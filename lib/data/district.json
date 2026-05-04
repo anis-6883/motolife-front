@@ -1,0 +1,578 @@
+[
+  {
+    "_id": 1,
+    "division_id": 4,
+    "name": "Bagerhat",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "bagerhat"
+  },
+  {
+    "_id": 2,
+    "division_id": 2,
+    "name": "Bandarban",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "bandarban"
+  },
+  {
+    "_id": 3,
+    "division_id": 1,
+    "name": "Barguna",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "barguna"
+  },
+  {
+    "_id": 4,
+    "division_id": 1,
+    "name": "Barisal",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "barisal"
+  },
+  {
+    "_id": 5,
+    "division_id": 1,
+    "name": "Bhola",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "bhola"
+  },
+  {
+    "_id": 6,
+    "division_id": 6,
+    "name": "Bogra",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "bogra"
+  },
+  {
+    "_id": 7,
+    "division_id": 2,
+    "name": "Brahmanbaria",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "brahmanbaria"
+  },
+  {
+    "_id": 8,
+    "division_id": 2,
+    "name": "Chandpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "chandpur"
+  },
+  {
+    "_id": 9,
+    "division_id": 6,
+    "name": "Chapainawabganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "chapainawabganj"
+  },
+  {
+    "_id": 10,
+    "division_id": 2,
+    "name": "Chattogram",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "chattogram"
+  },
+  {
+    "_id": 11,
+    "division_id": 4,
+    "name": "Chuadanga",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "chuadanga"
+  },
+  {
+    "_id": 12,
+    "division_id": 2,
+    "name": "Comilla",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "comilla"
+  },
+  {
+    "_id": 13,
+    "division_id": 2,
+    "name": "Cox's Bazar",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "coxs-bazar"
+  },
+  {
+    "_id": 14,
+    "division_id": 3,
+    "name": "Dhaka",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "dhaka"
+  },
+  {
+    "_id": 15,
+    "division_id": 7,
+    "name": "Dinajpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "dinajpur"
+  },
+  {
+    "_id": 16,
+    "division_id": 3,
+    "name": "Faridpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "faridpur"
+  },
+  {
+    "_id": 17,
+    "division_id": 2,
+    "name": "Feni",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "feni"
+  },
+  {
+    "_id": 18,
+    "division_id": 7,
+    "name": "Gaibandha",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "gaibandha"
+  },
+  {
+    "_id": 19,
+    "division_id": 3,
+    "name": "Gazipur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "gazipur"
+  },
+  {
+    "_id": 20,
+    "division_id": 3,
+    "name": "Gopalganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "gopalganj"
+  },
+  {
+    "_id": 21,
+    "division_id": 8,
+    "name": "Habiganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "habiganj"
+  },
+  {
+    "_id": 22,
+    "division_id": 5,
+    "name": "Jamalpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "jamalpur"
+  },
+  {
+    "_id": 23,
+    "division_id": 4,
+    "name": "Jessore",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "jessore"
+  },
+  {
+    "_id": 24,
+    "division_id": 1,
+    "name": "Jhalokati",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "jhalokati"
+  },
+  {
+    "_id": 25,
+    "division_id": 4,
+    "name": "Jhenaidah",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "jhenaidah"
+  },
+  {
+    "_id": 26,
+    "division_id": 6,
+    "name": "Joypurhat",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "joypurhat"
+  },
+  {
+    "_id": 27,
+    "division_id": 2,
+    "name": "Khagrachari",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "khagrachari"
+  },
+  {
+    "_id": 28,
+    "division_id": 4,
+    "name": "Khulna",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "khulna"
+  },
+  {
+    "_id": 29,
+    "division_id": 3,
+    "name": "Kishoreganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "kishoreganj"
+  },
+  {
+    "_id": 30,
+    "division_id": 7,
+    "name": "Kurigram",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "kurigram"
+  },
+  {
+    "_id": 31,
+    "division_id": 4,
+    "name": "Kushtia",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "kushtia"
+  },
+  {
+    "_id": 32,
+    "division_id": 2,
+    "name": "Lakshmipur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "lakshmipur"
+  },
+  {
+    "_id": 33,
+    "division_id": 7,
+    "name": "Lalmonirhat",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "lalmonirhat"
+  },
+  {
+    "_id": 34,
+    "division_id": 3,
+    "name": "Madaripur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "madaripur"
+  },
+  {
+    "_id": 35,
+    "division_id": 4,
+    "name": "Magura",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "magura"
+  },
+  {
+    "_id": 36,
+    "division_id": 3,
+    "name": "Manikganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "manikganj"
+  },
+  {
+    "_id": 37,
+    "division_id": 4,
+    "name": "Meherpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "meherpur"
+  },
+  {
+    "_id": 38,
+    "division_id": 8,
+    "name": "Moulvibazar",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "moulvibazar"
+  },
+  {
+    "_id": 39,
+    "division_id": 3,
+    "name": "Munshiganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "munshiganj"
+  },
+  {
+    "_id": 40,
+    "division_id": 5,
+    "name": "Mymensingh",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "mymensingh"
+  },
+  {
+    "_id": 41,
+    "division_id": 6,
+    "name": "Naogaon",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "naogaon"
+  },
+  {
+    "_id": 42,
+    "division_id": 4,
+    "name": "Narail",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "narail"
+  },
+  {
+    "_id": 43,
+    "division_id": 3,
+    "name": "Narayanganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "narayanganj"
+  },
+  {
+    "_id": 44,
+    "division_id": 3,
+    "name": "Narsingdi",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "narsingdi"
+  },
+  {
+    "_id": 45,
+    "division_id": 6,
+    "name": "Natore",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "natore"
+  },
+  {
+    "_id": 46,
+    "division_id": 5,
+    "name": "Netrokona",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "netrokona"
+  },
+  {
+    "_id": 47,
+    "division_id": 7,
+    "name": "Nilphamari",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "nilphamari"
+  },
+  {
+    "_id": 48,
+    "division_id": 2,
+    "name": "Noakhali",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "noakhali"
+  },
+  {
+    "_id": 49,
+    "division_id": 6,
+    "name": "Pabna",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "pabna"
+  },
+  {
+    "_id": 50,
+    "division_id": 7,
+    "name": "Panchagarh",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "panchagarh"
+  },
+  {
+    "_id": 51,
+    "division_id": 1,
+    "name": "Patuakhali",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "patuakhali"
+  },
+  {
+    "_id": 52,
+    "division_id": 1,
+    "name": "Pirojpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "pirojpur"
+  },
+  {
+    "_id": 53,
+    "division_id": 3,
+    "name": "Rajbari",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "rajbari"
+  },
+  {
+    "_id": 54,
+    "division_id": 6,
+    "name": "Rajshahi",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "rajshahi"
+  },
+  {
+    "_id": 55,
+    "division_id": 2,
+    "name": "Rangamati",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "rangamati"
+  },
+  {
+    "_id": 56,
+    "division_id": 7,
+    "name": "Rangpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "rangpur"
+  },
+  {
+    "_id": 57,
+    "division_id": 4,
+    "name": "Satkhira",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "satkhira"
+  },
+  {
+    "_id": 58,
+    "division_id": 3,
+    "name": "Shariatpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "shariatpur"
+  },
+  {
+    "_id": 59,
+    "division_id": 5,
+    "name": "Sherpur",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "sherpur"
+  },
+  {
+    "_id": 60,
+    "division_id": 6,
+    "name": "Sirajganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "sirajganj"
+  },
+  {
+    "_id": 61,
+    "division_id": 8,
+    "name": "Sunamganj",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "sunamganj"
+  },
+  {
+    "_id": 62,
+    "division_id": 8,
+    "name": "Sylhet",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "sylhet"
+  },
+  {
+    "_id": 63,
+    "division_id": 3,
+    "name": "Tangail",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "tangail"
+  },
+  {
+    "_id": 64,
+    "division_id": 7,
+    "name": "Thakurgaon",
+    "name_bn": null,
+    "createdAt": "2025-12-21T19:10:11.947Z",
+    "updatedAt": "2025-12-21T19:10:11.947Z",
+    "slug": "thakurgaon"
+  }
+]

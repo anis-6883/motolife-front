@@ -1,0 +1,24 @@
+{
+  "data": [
+    { "label": "New York", "country": "USA", "value": "NYC" },
+    { "label": "London", "country": "UK", "value": "LON" },
+    { "label": "Tokyo", "country": "Japan", "value": "TYO" },
+    { "label": "Paris", "country": "France", "value": "PAR" },
+    { "label": "Berlin", "country": "Germany", "value": "BER" },
+    { "label": "Sydney", "country": "Australia", "value": "SYD" },
+    { "label": "Moscow", "country": "Russia", "value": "MOW" },
+    { "label": "Beijing", "country": "China", "value": "BJS" },
+    { "label": "São Paulo", "country": "Brazil", "value": "SAO" },
+    { "label": "Los Angeles", "country": "USA", "value": "LAX" },
+    { "label": "Mumbai", "country": "India", "value": "BOM" },
+    { "label": "Cairo", "country": "Egypt", "value": "CAI" },
+    { "label": "Bangkok", "country": "Thailand", "value": "BKK" },
+    { "label": "Istanbul", "country": "Turkey", "value": "IST" },
+    { "label": "Buenos Aires", "country": "Argentina", "value": "BUE" },
+    { "label": "Cape Town", "country": "South Africa", "value": "CPT" },
+    { "label": "Toronto", "country": "Canada", "value": "YYZ" },
+    { "label": "Dubai", "country": "UAE", "value": "DXB" },
+    { "label": "Seoul", "country": "South Korea", "value": "SEL" },
+    { "label": "Rome", "country": "Italy", "value": "ROM" }
+  ]
+}

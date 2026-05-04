@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.stampezee.com
+
+# Sitemaps
+Sitemap: https://www.stampezee.com/sitemap.xml
